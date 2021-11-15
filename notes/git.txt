@@ -19,7 +19,7 @@ Git Bash
 Git Commands
 Config your git 
 
-git config --global user.name "akshay ballolli"
+git config --global user.name "Akshayballolli"
 git config --global user.email "akshayballolli@gmail.com"
 
 1. git init - Initaialize git project
